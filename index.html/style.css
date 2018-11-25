@@ -1,0 +1,24 @@
+/*selector {
+         property: value;*/
+
+     
+         h1 {
+            color:palegreen;
+        }
+        h2 {
+            color:olivedrab;
+        }
+        #tududu {
+            color:mediumvioletred;
+            font-family: 'Poor Story', cursive;
+            font-size: 40px;
+        }
+        .CSS{
+            text-align: right;
+            color:magenta;
+        }
+        .tududu{
+            text-align: center;
+            color:lightpink
+            
+        }
